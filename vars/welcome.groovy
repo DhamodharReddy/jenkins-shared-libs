@@ -1,4 +1,4 @@
-def wel(token) {
+def cal(token) {
     echo "${token}"
 }
 

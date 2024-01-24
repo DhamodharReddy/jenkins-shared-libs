@@ -1,4 +1,4 @@
-def qualityGate(name) {
+def cal(name) {
     echo "${name}"
 }
 
