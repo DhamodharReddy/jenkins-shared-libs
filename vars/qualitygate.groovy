@@ -1,3 +1,3 @@
-def qualityGate(String name, String message) {
-    echo "${name} & message is ${message}"
+def qualityGate(name, message) {
+    echo "${name} & messag is ${message}"
 }
