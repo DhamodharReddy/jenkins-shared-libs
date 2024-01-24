@@ -1,4 +1,4 @@
-def cal(token) {
+def call(token) {
     echo "${token}"
 }
 
