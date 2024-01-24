@@ -2,6 +2,6 @@
 //     echo "${token}"
 // }
 
-def wel(String token, String host) {
+def call(String token, String host) {
     echo "${token} & host is ${host}"
 }

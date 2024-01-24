@@ -2,6 +2,6 @@
 //     echo "${name}"
 // }
 
-def quality(String name, String message) {
+def call(String name, String message) {
     echo "${name} & messag is ${message}"
 }
